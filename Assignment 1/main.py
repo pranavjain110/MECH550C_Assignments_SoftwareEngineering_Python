@@ -6,7 +6,9 @@
 # Description: Program to print a string
 # Usage: Run Lab1.exe
 
+#print() command prints a string
 print ("Using python I aim to make small apps that \
-supports any automation I carry out in the industry.")
+support any automation I carry out in the industry.")
 
+#input() command is used to exit the program when the users presses enter
 input("\nPress Enter to Exit ")

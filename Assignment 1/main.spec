@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['main.py'],
-             pathex=['C:\\Users\\Pranav\\OneDrive\\UBCTerm2\\550C Software Engineering for Mechatronics Applications\\Assignment\\Assignment 1'],
+             pathex=['C:\\Users\\Pranav\\OneDrive\\UBCTerm2\\550C Software Engineering for Mechatronics Applications\\MECH550C_Assignments\\Assignment 1'],
              binaries=[],
              datas=[],
              hiddenimports=[],
