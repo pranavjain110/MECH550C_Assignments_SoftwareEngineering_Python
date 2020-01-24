@@ -1,6 +1,6 @@
 # Hello World Application
 
-This code is written to get familiar with python and the IDE.
+This code is written to get familiar with python and the Visual Studio Code IDE.
 
 The program uses the following commands:
 1. print() - to display a sequence of characters
