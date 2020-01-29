@@ -2,11 +2,9 @@
 
 ---
 Title: Comparing areas of two rectangles
+
 Author: Pranav Jain
 
-output:
-  github_document:
-    toc: true
 
 ---
 
