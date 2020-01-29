@@ -4,7 +4,9 @@
 Title: Comparing areas of two rectangles
 Author: Pranav Jain
 
-toc:true
+output:
+  github_document:
+    toc: true
 
 ---
 
