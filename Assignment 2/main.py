@@ -1,21 +1,22 @@
-# ---------------------------------------------------------------
-# Author: Pranav Jain
-# Date: January 28, 2020
-# Student Number = 14213029
-# Source File: main.py
-#
-# Course: MECH 550C - Software Design
-# Asignment Number: 2
-#
-# Purpose: Compare area of two rectangles
-#
-# Description:
-# This program compares area of two rectangles and prints True
-# if the area is equal and False if the area is different
-#
-# Usage: Run main.exe
-# ----------------------------------------------------------------
+''' 
+__________________________________________________________________
+Author: Pranav Jain
+Date: January 29, 2020
+Student Number = 14213029
+Source File: main.py
 
+Course: MECH 550C - Software Design
+Asignment Number: 2
+
+Purpose: Compare area of two rectangles
+
+Description:
+This program compares area of two rectangles and prints True
+if the area is equal and False if the area is different
+
+Usage: Run main.exe
+__________________________________________________________________
+'''
 
 def rectangleArea(l, w):
     """This is a function to calculate the area of a rectangle
@@ -44,5 +45,5 @@ x = (rectArea1 == rectArea2)
 
 print(x)
 
-#input() command is used to exit the program when the users presses enter
+# input() command is used to exit the program when the users presses enter
 input("\nPress Enter to Exit ")
