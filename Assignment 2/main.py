@@ -32,16 +32,16 @@ def rectangleArea(l, w):
     return a
 
 
-length1 = 2.6
-width1 = 10
+length1 = 0.3
+width1 = 3
 
-length2 = 13
-width2 = 2
+length2 = 0.9
+width2 = 1.0
 
 rectArea1 = rectangleArea(length1, width1)
 rectArea2 = rectangleArea(length2, width2)
 
-x = (rectArea1 == rectArea2)
+x = (rectArea1 - rectArea2)<0.000001 or (rectArea1 - rectArea2)>0.000001 
 
 print(x)
 
